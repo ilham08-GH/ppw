@@ -1,2 +1,0 @@
-# ppw
-Catatan Matakuliah PPW
