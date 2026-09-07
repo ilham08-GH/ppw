@@ -1,0 +1,19 @@
+version: 1
+project:
+  id: ppw-webmining
+  title: Penambangan & Pencarian Web
+  description: Website Dokumentasi Praktikum Penambangan & Pencarian Web (PPW) - Universitas Trunojoyo Madura
+  authors:
+    - name: Muhammad Ilham Adila Almafaz
+      email: 230411100113@student.trunojoyo.ac.id
+      affiliations:
+        - Universitas Trunojoyo Madura
+  toc:
+    - file: index.ipynb
+      title: Profil Mahasiswa
+    - file: WebMining_Tugas1.ipynb
+      title: "Tugas 1: Crawling Berita dengan Trafilatura"
+
+site:
+  template: book-theme
+  title: PPW - Muhammad Ilham Adila Almafaz

@@ -1,0 +1,15 @@
+# Konfigurasi Jupyter Book untuk PPW
+title: Penambangan & Pencarian Web
+author: Muhammad Ilham Adila Almafaz (230411100113)
+logo: ""
+
+# Pengaturan Eksekusi Notebook
+execute:
+  execute_notebooks: "off"
+
+# Pengaturan HTML
+html:
+  use_issues_button: false
+  use_repository_button: true
+  extra_navbar: |
+    <div>Dibuat oleh Muhammad Ilham Adila Almafaz (NPM: 23-113)</div>

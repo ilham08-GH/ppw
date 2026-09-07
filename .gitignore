@@ -1,0 +1,22 @@
+# Virtual Environment
+enWebmining/
+.env/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter & MyST build
+.ipynb_checkpoints/
+Notebooks/_build/
+_build/
+.myst/
+
+# OS files
+Thumbs.db
+.DS_Store
