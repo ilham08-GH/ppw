@@ -3,3 +3,4 @@ format: jb-book
 root: index
 chapters:
   - file: WebMining_Tugas1
+    title: "Tugas 1: Crawling Berita dengan Trafilatura"
