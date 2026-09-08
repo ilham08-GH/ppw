@@ -2,6 +2,8 @@
 
 Dokumentasi dan repositori tugas praktikum mata kuliah **Penambangan & Pencarian Web (PPW)**, Program Studi Teknik Informatika, Universitas Trunojoyo Madura.
 
+🔗 **Website Live (GitHub Pages)**: [https://ilham08-gh.github.io/ppw/](https://ilham08-gh.github.io/ppw/)
+
 ---
 
 ## 👤 Biodata Mahasiswa
