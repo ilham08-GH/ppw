@@ -3,6 +3,12 @@ title: Penambangan & Pencarian Web
 author: Muhammad Ilham Adila Almafaz (230411100113)
 logo: ""
 
+# Informasi Repositori
+repository:
+  url: https://github.com/ilham08-GH/ppw
+  path_to_book: Notebooks
+  branch: main
+
 # Pengaturan Eksekusi Notebook
 execute:
   execute_notebooks: "off"
