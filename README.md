@@ -45,3 +45,12 @@ Website dokumentasi ini dibuat menggunakan **Jupyter Book / MyST Markdown** dan 
    jupyter-book build Notebooks
    ```
    Buka file `Notebooks/_build/html/index.html` pada browser Anda.
+
+---
+
+## 🔄 Update Praktikum Otomatis (PowerShell)
+Setelah mengedit atau menambahkan file di folder `Notebooks/`, cukup jalankan perintah ini di Terminal:
+```powershell
+.\update.ps1
+```
+Skrip akan otomatis mendeteksi perubahan file, meminta pesan commit (opsional), dan mengunggah ke GitHub untuk langsung dideploy oleh GitHub Pages.
