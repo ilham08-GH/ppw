@@ -10,7 +10,7 @@ project:
         - Universitas Trunojoyo Madura
   toc:
     - file: index.ipynb
-      title: Profil Mahasiswa
+      title: Profil ppw
     - file: WebMining_Tugas1.ipynb
       title: "Tugas 1: Crawling Berita dengan Trafilatura"
 
