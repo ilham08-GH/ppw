@@ -7,3 +7,6 @@ chapters:
 
   - file: WebMining_Tugas1
     title: "Tugas 1: Crawling Berita dengan Trafilatura"
+
+  - file: WebMining_Tugas2
+    title: "Tugas 2: VSM, TF-IDF, dan Reduksi Dimensi PCA"
