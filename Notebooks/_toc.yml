@@ -10,3 +10,6 @@ chapters:
 
   - file: WebMining_Tugas2
     title: "Tugas 2: VSM, TF-IDF, dan Reduksi Dimensi PCA"
+
+  - file: WebMining_Tugas3
+    title: "Tugas 3: Pemodelan Klasifikasi dengan Orange Data Mining"
