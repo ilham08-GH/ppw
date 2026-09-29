@@ -16,6 +16,6 @@ chapters:
 
   - file: WebMining_Materi4
     title: "Materi 4: Word Embedding Skip-gram"
-
-  - file: WebMining_Tugas4
-    title: "Tugas 4: Klasifikasi Berita dengan Skip-gram & Naive Bayes"
+    sections:
+      - file: WebMining_Tugas4
+        title: "Tugas 4: Klasifikasi Berita dengan Skip-gram & Naive Bayes"
