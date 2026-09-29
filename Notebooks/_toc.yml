@@ -13,3 +13,9 @@ chapters:
 
   - file: WebMining_Tugas3
     title: "Tugas 3: Pemodelan Klasifikasi dengan Orange Data Mining"
+
+  - file: WebMining_Materi4
+    title: "Materi 4: Word Embedding Skip-gram"
+
+  - file: WebMining_Tugas4
+    title: "Tugas 4: Klasifikasi Berita dengan Skip-gram & Naive Bayes"
