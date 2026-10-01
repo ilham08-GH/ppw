@@ -24,7 +24,7 @@ Website dokumentasi ini dibuat menggunakan **Jupyter Book / MyST Markdown** dan 
   - [`WebMining_Tugas2.ipynb`](Notebooks/WebMining_Tugas2.ipynb): Tugas 2 - VSM, TF-IDF, dan Reduksi Dimensi PCA.
   - [`WebMining_Tugas3.ipynb`](Notebooks/WebMining_Tugas3.ipynb): Tugas 3 - Pemodelan Klasifikasi Berita dengan Orange Data Mining.
   - [`WebMining_Materi4.ipynb`](Notebooks/WebMining_Materi4.ipynb): Materi 4 - Word Embedding Skip-gram dengan Artificial Neural Network (ANN).
-  - [`WebMining_Tugas4.ipynb`](Notebooks/WebMining_Tugas4.ipynb): Tugas 4 - Klasifikasi 200 Berita Menggunakan Skip-gram (Komparasi Stopwords) dan Naive Bayes.
+  - [`WebMining_Tugas4.ipynb`](Notebooks/WebMining_Tugas4.ipynb): Tugas 4 - Klasifikasi 200 Berita Menggunakan Gensim Word2Vec Skip-gram, Naive Bayes, dan kNN.
   - `_config.yml` & `_toc.yml`: Konfigurasi struktur dan navigasi buku Jupyter.
 - **`mytugaswebmining/`**: Project web scraper berbasis framework Scrapy.
 - **`.github/workflows/deploy.yml`**: Alur kerja CI/CD untuk otomatisasi build dan deployment Jupyter Book ke GitHub Pages.
