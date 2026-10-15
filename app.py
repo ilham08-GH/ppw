@@ -284,8 +284,11 @@ if news_text:
                 st.progress(min(pct / 100.0, 1.0))
 
         # Tampilkan detail teks hasil parsing
-        with st.expander("🔍 Lihat Teks Berita yang Diproses & Token Kata"):
-            st.markdown("**Contoh Teks yang Diekstraksi:**")
-            st.write(news_text[:500] + ("..." if len(news_text) > 500 else ""))
-            st.markdown("**15 Token Pertama (Setelah Stopword Removal):**")
-            st.code(", ".join(tokens[:15]))
+        with st.expander("🔍 Lihat Seluruh Isi Berita yang Telah Diambil & Detail Token", expanded=False):
+            if news_title:
+                st.markdown(f"### 📰 Judul Berita:\n**{news_title}**")
+            st.markdown("### 📄 Seluruh Teks Konten Berita:")
+            st.text_area("Konten Berita Lengkap:", value=news_text, height=260, disabled=True)
+            st.markdown("### 🔤 Token Kata Setelah Preprocessing (Stopword Removal):")
+            st.write(f"Total token bersih: **{len(tokens)}** kata")
+            st.code(", ".join(tokens))
