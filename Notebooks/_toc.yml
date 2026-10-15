@@ -20,6 +20,6 @@ chapters:
       - file: WebMining_Tugas4
         title: "Tugas 4: Klasifikasi Berita dengan Skip-gram & Naive Bayes"
 
-  - file: WebMining_UTS
+  - file: TesUTS
     title: "Ujian Tengah Semester: Klasifikasi Berita dengan Word Embedding Skip-gram"
 
