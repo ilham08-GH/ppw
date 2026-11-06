@@ -23,3 +23,6 @@ chapters:
   - file: TesUTS
     title: "Ujian Tengah Semester: Klasifikasi Berita dengan Word Embedding Skip-gram"
 
+  - file: WebMining_Materi5
+    title: "Materi 5: Web Structure Mining - Teori Graf dan Karakteristik Jaringan"
+
